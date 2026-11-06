@@ -6,8 +6,11 @@
 *.fdb_latexmk
 *.pdf
 *.tex
-!urnik.tex
+!magic.tex
 *.jpg
 *.bib
 *.md
+*.blg
+*.bbl
+*.toc
 
